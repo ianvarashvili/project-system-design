@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'SS Geo Chalk';
+  src: local('SS Geo Chalk'), local('SSGEOCHALK-AllCaps'),
+       url('../assets/fonts/SS GEO CHALK (AllCaps)-25543181111.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* TF Mecomicse Fallback (Georgian Font) */
+@font-face {
+  font-family: 'TF Mecomicse';
+  src: local('TF Mecomicse'), local('TFMecomicse'),
+       url('../assets/fonts/TFMecomicse-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
